@@ -23,7 +23,7 @@
  */
 
 /*
- *
+ * hhhhhhhhhhhhhhhhhnhgnhgnhgnghnhgnhgngh
  *
  */
 void exit_failure(char *error_msg) {
