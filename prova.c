@@ -21,11 +21,6 @@
  *
  * @param str2 -> A pointer to an error message.
  */
-
-/*
- *
- *
- */
 void exit_failure(char *error_msg) {
     fprintf(stderr, "%s", error_msg);
     exit(EXIT_FAILURE);
