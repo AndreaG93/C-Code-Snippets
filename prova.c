@@ -20,11 +20,8 @@
  * This function is used to terminate application execution displaying a specified error message.
  *
  * @param str2 -> A pointer to an error message.
- */
-
-/*
- * hhhhhhhhhhhhhhhhhnhgnhgnhgnghnhgnhgngh
- *
+ * 
+ * ddddda
  */
 void exit_failure(char *error_msg) {
     fprintf(stderr, "%s", error_msg);
