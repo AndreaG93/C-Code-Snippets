@@ -7,8 +7,8 @@
 ============================================================================
 */
 
-#ifndef TEST__TEST_FILE_MANAGEMENT_TEST_FILE_MANAGEMENT_H_
-#define TEST__TEST_FILE_MANAGEMENT_TEST_FILE_MANAGEMENT_H_
+#ifndef TEST_TEST_FILE_MANAGEMENT_TEST_FILE_MANAGEMENT_H_
+#define TEST_TEST_FILE_MANAGEMENT_TEST_FILE_MANAGEMENT_H_
 
 #include "../../file_management/file_management.h"
 #include "../../utility/utility.h"
@@ -42,4 +42,4 @@ void TEST_read_entire_file() {
     free(test_output);
 }
 
-#endif /* TEST__TEST_FILE_MANAGEMENT_TEST_FILE_MANAGEMENT_H_ */
+#endif /* TEST_TEST_FILE_MANAGEMENT_TEST_FILE_MANAGEMENT_H_ */

@@ -10,8 +10,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include "_test/_test_file_management/TEST_file_management.h"
-#include "_test/_test_utility/TEST_utility.h"
+#include "test/test_file_management/TEST_file_management.h"
+#include "test/test_utility/TEST_utility.h"
 
 #define EXECUTE_UNIT_TEST
 

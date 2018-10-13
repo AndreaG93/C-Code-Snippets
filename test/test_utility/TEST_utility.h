@@ -7,8 +7,8 @@
 ============================================================================
  */
 
-#ifndef TEST__TEST_UTILITY_TEST_UTILITY_H_
-#define TEST__TEST_UTILITY_TEST_UTILITY_H_
+#ifndef TEST_TEST_UTILITY_TEST_UTILITY_H_
+#define TEST_TEST_UTILITY_TEST_UTILITY_H_
 
 /*
  * TEST 1
@@ -27,4 +27,4 @@ void TEST_convert_to_string() {
 	assert(strcmp(convert_to_string( (long double *) 30000, "%ld"), "30000") == 0);
 }
 
-#endif /* TEST__TEST_UTILITY_TEST_UTILITY_H_ */
+#endif /* TEST_TEST_UTILITY_TEST_UTILITY_H_ */
